@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Wambui\source\repos\2DViewing\2DViewing\Source.cpp(95,10): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wambui\source\repos\2DViewing\2DViewing\Source.cpp(95,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wambui\source\repos\2DViewing\2DViewing\Source.cpp(99,10): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Wambui\source\repos\2DViewing\2DViewing\Source.cpp(99,18): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  2DViewing.vcxproj -> C:\Users\Wambui\source\repos\2DViewing\Debug\2DViewing.exe
